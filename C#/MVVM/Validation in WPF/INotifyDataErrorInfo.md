@@ -76,7 +76,7 @@ public class UserViewModel : ViewModelBase, INotifyDataErrorInfo
 
 		public IEnumerable GetErrors(string? propertyName)
 		{
-			return _errorPropertyNames.ContainsKey(propertyName) 
+			return _errorPropertyNames.ContainsKey(propertyName) ?
 			_errorPropertyNames[propertyName] : Enumerable.Empty<string>();
 		}
 		private void OnErrorsChanged(string propertyName)

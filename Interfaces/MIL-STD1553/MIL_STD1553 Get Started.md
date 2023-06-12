@@ -65,29 +65,6 @@ g++ -shared -o WDMTMKv2.dll WDMTMKv2.o -Wl,--out-implib,WDMTMKv2.a
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Документация от ЭЛКУС:
 [Справчное описание](tmkref.pdf) , [Рукводство программиста](tmkguide.pdf)
 

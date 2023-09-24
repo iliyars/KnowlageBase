@@ -1,0 +1,37 @@
+Item Number	Quantity	AN	Part Reference	Design comment	Manufacturer	MPN	Description
+1	8	A01-0151	C1 C8 C9 C10 C11 C12 C13 C14				Ceramic capacitor, SMD 0805, NP0, 50V, ±5 %
+2	3	A01-0105	C2 C3 C4		Kemet	C0603C222K5RAC	Ceramic capacitor, SMD 0603, X7R, 50V, ±10 %
+3	4	A01-0246	C5 C18 C21 C22		Kemet	C0402C104K4RACTU	Ceramic capacitor, SMD 0402, X7R, 16V, +/-10%
+4	6	A01-0087	C6 C7 C15 C16 C17 C23		AVX	0603YC104KAT2A	Ceramic capacitor, SMD 0603, X7R, 16V, ±10 %
+5	1	A01-0120	C19				Ceramic capacitor, SMD 0805, Y5V, 10V
+6	1	A01-0088	C20				Ceramic capacitor, SMD 0603, X7R, 16V, ±10 %
+7	2	A01-0069	C24 C25		Kemet	C0603C220J5GAC	Ceramic capacitor, SMD 0603, NP0, 50V,  ±5 %
+8	2	A04-0018	D1 D2		Littelfuse	PGB1010603NR	ESD Suppressor
+9	1	A10-0027	D3		ROHM	SML-020MLT	LED, 2 colour (RED/GREEN), transparent clear lens, SMD
+10	4	A08-0052	E1 E2 E3 E4		3M	SJ-5303	5mm adhesive feet, diam 11.1mm
+11	3	A08-0362	J1 J2 J3		Garry	STL1-1470ATT-008	1x8 Pin Header, 2,54mm pitch, Right angle, THM
+12	1	A08-0395	J4		Garry	STL2-1470ATT-016U	Through hole 8x2 right angle pin header footprint, pitch 2.54 mm
+13	2	A08-0231	J5 J6		SAMTEC	ASP-128946-02	1x6 socket strip, 2.54mm pitch, THM Pin-In-Paste
+14	1	A08-0230	J7		SAMTEC	ASP-128946-01	1x4 socket strip, 2.54mm pitch, THM Pin-In-Paste
+15	9	A08-0144	J8 J10 J11 J12 J13 J15 J16 J17 J19		Freber	CD075014 1X3	1x3 pin header, 2.54 mm pitch, Pin-in-Paste THM
+16	2	A08-0006	J9 J14		Freber	CD075014 2X3	2x3 pin header, 2.54 mm pitch, Pin-in-Paste THM
+17	1	A08-0039	J18		Molex	54819-0519	USB OTG Mini-B Connector
+18	1	A08-0392	J20		SAMTEC	TSM-105-01-T-DH-K-TR	2x5 pin header, Right angle, 2.54mm pitch, SMD, Tin
+19	1	A08-0197	J21				1x5 pin header, 2.54 mm pitch, THM
+20	12	A08-0019	JS1 JS2 JS3 JS4 JS5 JS6 JS7 JS8 JS9 JS10 JS11 JS12		Cen Link Co.	YMJ-02-O-BK	Jumper cap for 2.54mm pinheader
+21	1	A02-0512	P1		Bourns	3386F-1-103T_LF	10k Square trimming potentiometer
+22	1	A08-0425	PCB1		Solectron		MC301 PCB - tinyX61 device board for MC300
+23	8	A02-0394	R1 R7 R9 R14 R16 R21 R23 R31				Thick film resistor, SMD 0805, 0.125W, 1%
+24	6	A02-0001	R2 R4 R10 R17 R27 R39				Thick film resistor, SMD 0603, 1/10W, 1%
+25	9	A02-0376	R3 R6 R8 R12 R15 R19 R22 R29 R32				Thick film resistor, SMD 0805, 0.125W, 1%
+26	14	A02-0098	R5 R24 R25 R26 R33 R34 R35 R36 R37 R44 R45 R46 R47 R48		KOA	RK73H1JTTD1002F	Thick film resistor, SMD 0603, 1/10W, 1%
+27	6	A02-0401	R11 R13 R18 R20 R28 R30				Thick film resistor, SMD 0805, 0.125W, 1%
+28	2	A02-0034	R38 R40				Thick film resistor, SMD 0603, 1/10W, 1%
+29	1	A02-0114	R41				Thick film resistor, SMD 0603, 1/10W, 1%
+30	2	A02-0062	R42 R43				Thick film resistor, SMD 0603, 1/10W, 1%
+31	2	A08-0420	SW1 SW2		ITT cannon	KMR221G	Microminiature Tact Switch for SMT
+32	17	A08-0213	TP1 TP2 TP3 TP4 TP5 TP6 TP7 TP8 TP9 TP18 TP19 TP20 TP21 TP23 TP24 TP25 TP26		Gjertz Trading	STL1-1260GTT-001 U	1x1 pin header, THM
+33	1	A06-0003	U1		Texas Instruments	LM339PW	Low Cost Quad Comparator
+34	1	A06-0112	U2		ATMEL	ATtiny861-20PU	AVR 8-bit RISC MCU
+35	1	A06-0220	U3		ATMEL	AT90USB1287-16MU	AVR 8-bit RISC MCU with USB, QFN64 package
+36	1	A07-0023	XC1		Golledge	GSX-323/111BF 16.0MHz	16MHz uXtal GSX-323, 2.0 x 2.5 mm SMD 10ppm

@@ -71,7 +71,7 @@ Ef core может автоматически сздать свзяь many-to-ma
 - lazy loading
 
 #### Eager loading (загрузка собственных классов вместе с основным)
-	Для такое загрузки во **Fluent API** испльзуются два метода (`Include` И `ThenInclude`)
+	Для такой загрузки во **Fluent API** испльзуются два метода (`Include` И `ThenInclude`)
 Загрузка основных и связанных данных в одном  sql querry
 
 ```cs
